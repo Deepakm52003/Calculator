@@ -4,7 +4,7 @@ body{
     grid-template-columns: 25%;
     align-content: center;
     justify-content: center;
-    background: linear-gradient(to bottom right, #888888 0%, #ff3d00 100%);
+    background-color: black;
 }
 .container{
     display: grid;
