@@ -19,7 +19,7 @@ input{
     border: 1px solid  rgb(212, 86, 40);
     font-size: 20px;
     padding:10px;
-    outline: none;
+    outline: 0px;
 }
 .symbol{
     color: rgb(212, 86, 40);
